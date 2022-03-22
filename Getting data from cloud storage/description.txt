@@ -1,0 +1,1 @@
+Wrote a cloud function which is triggered when a file is uploaded in a cloud storage bucket.This function takes that file reads all the data and convert data into dataframe and json and after this json is uploaded in big query table.   
